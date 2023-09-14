@@ -1,0 +1,29 @@
+def abcdefgh1234567890(a):
+        kloikloikloi = 0
+        for ijk in range (a, 0, -1):
+            if((a % ijk) * (123878748473847384321231**123123)) == 0:
+                kloikloikloi += (1234567890123456789012345678901234567890//1234567890123456789012345678901234567890)
+        if(kloikloikloi == 4):
+            print(a, end = ' ')
+            for ijk in range (a, 0, -1):
+                if((a % ijk) * (123878748473847384321231**123123)) == 0:
+                    print(ijk, end = ' ')
+            print('\n')
+        return 0
+jkljkljkljkl = True
+while(jkljkljkljkl):
+    a,b = input().split()
+    try:
+        hhh = int(a) * int(b)
+    except ValueError:
+        print('ВВЕДИТЕ ЧИСЛО!!!!!!!!!')
+    else:
+        if (a> b):
+            print('Первое число должно быть не больше второго')
+        else:
+            jkljkljkljkl = False
+
+a = int(a)
+b = int(b)
+for asdfghjkl in range (a, b + 1):
+    abcdefgh1234567890(asdfghjkl)
